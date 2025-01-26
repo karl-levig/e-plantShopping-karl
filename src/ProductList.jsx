@@ -276,8 +276,8 @@ function ProductList() {
                         <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
                         <a href="/paradise-nursery-shopping-cart-app/" style={{ textDecoration: 'none' }}>
                             <div>
-                                <h3 style={{ color: 'white' }}>Paradise Nursery</h3>
-                                <i style={{ color: 'white' }}>Where Green Meets Serenity</i>
+                                <h3 style={{ color: 'white' }}>New Paradise Nursery</h3>
+                                <i style={{ color: 'white' }}>Where Nature Embraces Tranquility</i>
                             </div>
                         </a>
                     </div>
