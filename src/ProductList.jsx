@@ -59,38 +59,38 @@ function ProductList() {
                 {
                     name: "Gardenia",
                     image: "https://cdn.pixabay.com/photo/2020/04/27/02/41/gardenia-5097886_1280.jpg",
-                    description: "Thrives in warm, humid climates.",
+                    description: "Thrives in warm, humid climates.npm run preview",
                     cost: "$24"
                 },
                 {
-                    name: "Jasmine",
-                    image: "https://images.unsplash.com/photo-1592729645009-b96d1e63d14b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                    description: "Sweet fragrance, promotes relaxation.",
-                    cost: "$18"
+                    name: "Sweet Alyssum ",
+                    image: "https://cdn.pixabay.com/photo/2021/05/09/17/26/sweet-alyssum-6241568_1280.jpg",
+                    description: "Offers a honey-like scent.",
+                    cost: "$19"
                 },
                 {
-                    name: "Rosemary",
-                    image: "https://cdn.pixabay.com/photo/2019/10/11/07/12/rosemary-4541241_1280.jpg",
-                    description: "Invigorating scent, often used in cooking.",
-                    cost: "$15"
+                    name: "Thyme",
+                    image: "https://cdn.pixabay.com/photo/2023/06/15/08/05/bee-8064761_1280.jpg",
+                    description: "Woody, herbal scent.",
+                    cost: "$19"
                 },
                 {
-                    name: "Mint",
-                    image: "https://cdn.pixabay.com/photo/2016/01/07/18/16/mint-1126282_1280.jpg",
-                    description: "Refreshing aroma, used in teas and cooking.",
-                    cost: "$12"
-                },
-                {
-                    name: "Lemon Balm",
-                    image: "https://cdn.pixabay.com/photo/2019/09/16/07/41/balm-4480134_1280.jpg",
-                    description: "Citrusy scent, relieves stress and promotes sleep.",
+                    name: "Eucalyptus",
+                    image: "https://cdn.pixabay.com/photo/2017/02/21/17/40/eucalyptus-2086785_1280.jpg",
+                    description: "Known for its fresh, menthol-like aroma.",
                     cost: "$14"
                 },
                 {
-                    name: "Hyacinth",
-                    image: "https://cdn.pixabay.com/photo/2019/04/07/20/20/hyacinth-4110726_1280.jpg",
-                    description: "Hyacinth is a beautiful flowering plant known for its fragrant.",
-                    cost: "$22"
+                    name: "Chamomile",
+                    image: "https://cdn.pixabay.com/photo/2016/03/16/21/25/chamomile-1261796_1280.jpg",
+                    description: "Soft, apple-like fragrance.",
+                    cost: "$17"
+                },
+                {
+                    name: "Sweet Pea",
+                    image: "https://cdn.pixabay.com/photo/2019/07/12/06/51/sweet-pea-4332069_1280.jpg",
+                    description: "Sweet Pea is a Delicate floral fragrance.",
+                    cost: "$25"
                 }
             ]
         },
@@ -98,40 +98,40 @@ function ProductList() {
             category: "Insect Repellent Plants",
             plants: [
                 {
-                    name: "oregano",
-                    image: "https://cdn.pixabay.com/photo/2015/05/30/21/20/oregano-790702_1280.jpg",
-                    description: "The oregano plants contains compounds that can deter certain insects.",
-                    cost: "$10"
+                    name: "Citronella Grass",
+                    image: "https://cdn.pixabay.com/photo/2017/05/14/14/24/grass-2312139_1280.jpg",
+                    description: "One of the most effective mosquito repellents.",
+                    cost: "$13"
                 },
                 {
-                    name: "Marigold",
-                    image: "https://cdn.pixabay.com/photo/2022/02/22/05/45/marigold-7028063_1280.jpg",
-                    description: "Natural insect repellent, also adds color to the garden.",
-                    cost: "$8"
-                },
-                {
-                    name: "Geraniums",
-                    image: "https://cdn.pixabay.com/photo/2012/04/26/21/51/flowerpot-43270_1280.jpg",
-                    description: "Known for their insect-repelling properties while adding a pleasant scent.",
-                    cost: "$20"
-                },
-                {
-                    name: "Basil",
-                    image: "https://cdn.pixabay.com/photo/2016/07/24/20/48/tulsi-1539181_1280.jpg",
-                    description: "Repels flies and mosquitoes, also used in cooking.",
+                    name: "Chrysanthemums  ",
+                    image: "https://cdn.pixabay.com/photo/2019/10/23/16/30/chrysanthemum-4572108_1280.jpg",
+                    description: "Contains pyrethrins, which repel roaches, ants, and ticks.",
                     cost: "$9"
                 },
                 {
-                    name: "Lavender",
-                    image: "https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                    description: "Calming scent, used in aromatherapy.",
-                    cost: "$20"
+                    name: "Thyme ",
+                    image: "https://cdn.pixabay.com/photo/2017/04/04/18/00/vegetables-2202504_960_720.jpg",
+                    description: "Effective against mosquitoes,Hardy and easy to grow",
+                    cost: "$23"
                 },
                 {
-                    name: "Catnip",
-                    image: "https://cdn.pixabay.com/photo/2015/07/02/21/55/cat-829681_1280.jpg",
-                    description: "Repels mosquitoes and attracts cats.",
-                    cost: "$13"
+                    name: "Catnip ",
+                    image: "https://cdn.pixabay.com/photo/2022/05/31/08/09/flowers-7232964_1280.jpg",
+                    description: "Contains nepetalactone, a strong mosquito repellent.",
+                    cost: "$10"
+                },
+                {
+                    name: "Bay Laurel ",
+                    image: "https://cdn.pixabay.com/photo/2014/07/05/03/10/laurel-fruits-384515_1280.jpg",
+                    description: "Aromatic leaves are often used in cooking.",
+                    cost: "$23"
+                },
+                {
+                    name: "Pitcher Plant ",
+                    image: "https://cdn.pixabay.com/photo/2019/03/19/09/50/pitcher-plant-4065247_1280.jpg",
+                    description: "Carnivorous plant that traps and eats insects.",
+                    cost: "$15"
                 }
             ]
         },
